@@ -337,7 +337,14 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6f7275', end
 	font-size: 36px;
 	font-weight: 700;
 	color: #fff;
-	display: block;
+	display: inline-block;
+}
+.achivement-box span.nowrap{
+	font-size: 36px;
+	font-weight: 700;
+	color: #fff;
+	display: inline-block;
+	white-space: nowrap;
 }
 /* Experience Section */
 #Experience{
