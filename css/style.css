@@ -630,6 +630,17 @@ main {
 	background: #fff;
 }
 
+.left{
+    width:20%;
+    height:200px;
+    float:left;
+}
+.right{
+    width:80%;
+    height:300px;
+    float:right;  /*此处float：right不写的话，就会有20%的区域被left覆盖掉；*/
+}
+
 section {
 	display: none;
 	padding: 20px 0 0;
