@@ -379,7 +379,7 @@ img.img-circle.team-img {
 /* BasicInfo Section */
 #BasicInfo {
 	padding: 80px 0;
-	color: #aaa;
+	color: #ffffff;
 	background: #6f7275; /* Old browsers */
 	background: -moz-linear-gradient(top, #6f7275 0%, #31353a 100%); /* FF3.6+ */
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #6f7275), color-stop(100%, #31353a)); /* Chrome,Safari4+ */
@@ -393,7 +393,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6f7275', end
 	background: #c1a533;
 }
 #BasicInfo H2 {
-	color: #ddd;
+	color: #ffffff;
 }
 #BasicInfo H4 {
 	color: #F4D03F;
@@ -442,7 +442,7 @@ BasicInfo .service:hover > i.fa {
 	background: #c1a533;
 }
 #AcaService H2 {
-	color: #ddd;
+	color: #ffffff;
 }
 #AcaService H4 {
 	color: #F4D03F;
@@ -712,7 +712,7 @@ input:checked + label {
 	background: url(../img/bg2.jpg);
 	background-size: cover;
 	background-attachment: fixed;
-	color: #ddd;
+	color: #ffffff;
 	padding: 80px 0;
 }
 #BriefIntro .item {
