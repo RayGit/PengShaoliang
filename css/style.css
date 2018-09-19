@@ -143,7 +143,7 @@ ul, ol {
 	padding: 100px 0;
 	text-align: center;
 	color: #fff;
-	background: url(../img/bg4.jpg) no-repeat bottom center;
+	background: url(../img/bg/bg4.jpg) no-repeat bottom center;
 	background-color: #000;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -708,7 +708,7 @@ input:checked + label {
 }
 /* BriefIntro Section */
 #BriefIntro {
-	background: url(../img/bg2.jpg);
+	background: url(../img/bg/bg2.jpg);
 	background-size: cover;
 	background-attachment: fixed;
 	color: #ffffff;
